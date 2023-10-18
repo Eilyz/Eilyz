@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Discord Bots<br>👯 I’m looking to collaborate on Anything<br>🤝 I’m looking for help with Python<br>🌱 I’m currently learning Python<br>💬 Ask me about Discord
+Working on Discord Bots<br>🌱 I’m currently learning Python<br>💬 Ask me about Discord
 
 
 ## 🌐 Socials:
